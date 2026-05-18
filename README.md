@@ -7,12 +7,11 @@ An ML-powered web application for detecting fraudulent credit card transactions 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-green)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://credit-card-transaction-anomaly-detector.streamlit.app)
 
 ---
 
 ## 🌐 Live Demo
-
-**👉 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://credit-card-transaction-anomaly-detector.streamlit.app)
 
 **👉 [credit-card-transaction-anomaly-detector.streamlit.app](https://credit-card-transaction-anomaly-detector.streamlit.app)**
 
@@ -42,6 +41,22 @@ An ML-powered web application for detecting fraudulent credit card transactions 
 
 > Dataset source: [kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
+---
+## ⚠️ Dataset Availability
+
+The dataset used in this project is not uploaded to GitHub due to its large file size (**150MB+**) and GitHub storage limitations.
+
+To run this project locally:
+
+1. Download the dataset from Kaggle:
+   https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+2. Place the file here:
+
+```bash
+data/raw/creditcard.csv
+
+```
 ---
 
 ## 🏗️ ML Pipeline
