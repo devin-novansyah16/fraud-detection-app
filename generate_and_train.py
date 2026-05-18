@@ -103,7 +103,7 @@ metrics = {
 }
 joblib.dump(metrics, "models/metrics.pkl")
 
-print(f"\n✅ Semua model tersimpan!")
+print(f"\n Semua model tersimpan!")
 print(f"   Random Forest  AUC: {rf_auc:.4f}")
 print(f"   XGBoost        AUC: {xgb_auc:.4f}")
 print(f"   Isolation Forest AUC: {iso_auc:.4f}")
