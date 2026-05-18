@@ -58,6 +58,25 @@ data/raw/creditcard.csv
 
 ```
 ---
+## ☁️ Streamlit Cloud Deployment Note
+
+To keep the repository lightweight and compatible with GitHub and Streamlit Cloud limitations, the original dataset (`creditcard.csv`) is not uploaded to the repository.
+
+As a result:
+
+- The deployed Streamlit app focuses on:
+  - real-time fraud prediction
+  - scenario simulation
+  - trained model inference
+  - fraud risk scoring
+
+- Full dataset analytics and EDA features are only available when running the project locally with the dataset downloaded manually.
+
+This approach helps maintain:
+- faster deployment
+- smaller repository size
+- cleaner cloud hosting workflow
+---
 
 ## 🏗️ ML Pipeline
 
