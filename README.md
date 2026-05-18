@@ -12,7 +12,9 @@ An ML-powered web application for detecting fraudulent credit card transactions 
 
 ## 🌐 Live Demo
 
-**👉 [Live Demo — Coming Soon]**
+**👉 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://credit-card-transaction-anomaly-detector.streamlit.app)
+
+**👉 [credit-card-transaction-anomaly-detector.streamlit.app](https://credit-card-transaction-anomaly-detector.streamlit.app)**
 
 > Select a transaction scenario and get an instant fraud risk score — no installation needed.
 
